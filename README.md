@@ -4,9 +4,9 @@ Image recognition using Deep Belief Networks for Hard Task Classification. Deepl
 This Deeb belief network is done using Deeplearning4j ( Deep learning for java library ). 
 This network was done to image recogntion. Image classification was used and deep belief network is the 
 best solution for hard task classification. In this network there are two labels. 
-Image folder paths should be 
-
-		|--- Foleder ( Type A Images)
+Image folder paths should be
+              
+                |--- Folder  ( Type A Images)
 Folder ---------|
 		|--- Folder  ( Type B Images)
 			
