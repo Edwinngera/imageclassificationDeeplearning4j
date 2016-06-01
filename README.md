@@ -1,4 +1,6 @@
 # imageclassificationDeeplearning4j
+Deep Belief Networks for Image Processing 
+Deep learning for java 
 Image recognition using Deep Belief Networks for Hard Task Classification. Deeplearning4j library was used. 
 
 This Deeb belief network is done using Deeplearning4j ( Deep learning for java library ). 
@@ -8,7 +10,7 @@ Image folder paths should be
  
                              Main Folder 
                              	|
-Folder  ( Type A Images)                     Folder  ( Type B Images)
+Folder  ( Type A Images)        |             Folder  ( Type B Images)
 			
 Network should be 'tuned' accodingly changing the configuartions is the main class. 
 This can be taken as a deep belief network image recognition example using deeplearning4j
